@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Balaam's wish: a sermon Wherein the vanity of desires without endeavours, in order to the obtaining the death of the upright, and their last end, is opened and applyed. First occasionally preached, and now at the request of some published. By an unworthy messenger of Christ.</title>
+            <author>Cawton, Thomas, 1637-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78440</idno>
+            <idno type="STC">Wing C1652</idno>
+            <idno type="STC">ESTC R225053</idno>
+            <idno type="EEBO-CITATION">99896137</idno>
+            <idno type="PROQUEST">99896137</idno>
+            <idno type="VID">153850</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153850)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2384:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Balaam's wish: a sermon Wherein the vanity of desires without endeavours, in order to the obtaining the death of the upright, and their last end, is opened and applyed. First occasionally preached, and now at the request of some published. By an unworthy messenger of Christ.</title>
+                  <author>Cawton, Thomas, 1637-1677.</author>
+               </titleStmt>
+               <extent>[14], 96 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Leach for John Sims, and are to be sold at his shop near Gresham-Colledge-gate in Bishops-gate-street, and at his shop at Swithins-Alley-end in Cornhill, near the Royal-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Cawton.</note>
+                  <note>Reproduction of original in the Congregational Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153850:1" rendition="simple:additions"/>
+            <p>
+               <hi>BALAAM</hi>'S WISH: A SERMON.</p>
+            <p>Wherein the vanity of deſires without endeavours, in order to the obtaining the Death of the Upright, and their laſt end, is opened and applyed.</p>
+            <p>Firſt occaſionally Preached, and now at the requeſt of ſome Publiſhed.</p>
+            <p>By an unworthy Meſſenger of Chriſt.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 37.37.</hi>
+               </bibl> Mark the perfect man, and behold the upright, for the end of that man is peace.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Leach</hi> for <hi>John Sims,</hi> and are to be ſold at his Shop near <hi>Greſham-Colledge-gate</hi> in <hi>Biſhops-gate-ſtreet,</hi> and at his Shop at <hi>Swithins</hi>-Alley-end in <hi>Cornhill,</hi> near the <hi>Royal-Exchange.</hi> 1670.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153850:2"/>
+            <pb facs="tcp:153850:2"/>
+            <head>TO THE RIGHT HONOURABLE AND ELECT LADIES
+<list>
+                  <item>The Lady <hi>Anne Clinton,</hi>
+                  </item>
+                  <item>The Lady <hi>Eleanora Holles.</hi> AND</item>
+                  <item>The Lady <hi>Diana Holles.</hi>
+                  </item>
+               </list>
+            </head>
+            <head type="sub">The Author wiſheth Grace and Peace.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is the Nature of the Bleſſed God, not only to give great things boun<g ref="char:EOLhyphen"/>tifully,
+<pb facs="tcp:153850:3"/> but alſo to accept of ſmall things graciouſly: though he looks for the Gift, yet he looks at the Heart: hence we read in the Law, that the handfull of Meal which the Poor man brought for an Ob<g ref="char:EOLhyphen"/>lation to God, was as grate<g ref="char:EOLhyphen"/>full to God as the whole Burnt-offering of the Rich: and in the firſt of <hi>Leviticus,</hi> the <hi>Reach Nichoach,</hi> or <hi>ſweet ſa<g ref="char:EOLhyphen"/>vour of reſt,</hi> is added not only to the Rich mans Oxe, but to the Poor mans Turtle Doves; to ſhew that it is not ſo much
+<pb facs="tcp:153850:3"/> how much, as from what mind a Sacrifice is brought to Gods Altar.</p>
+            <p>Your Ladyſhips have al<g ref="char:EOLhyphen"/>ready in your Nobleneſs and Liberality to me, ſhewed your ſelves to be <hi>partakers of the Divine Nature,</hi> and in accept<g ref="char:EOLhyphen"/>ing this poor Pepper-corn pre<g ref="char:EOLhyphen"/>ſent will give a further teſti<g ref="char:EOLhyphen"/>mony of your Likeneſs to his Eternal Majesty: for your ac<g ref="char:EOLhyphen"/>ceptation will evidence more the goodneſs of your Lady<g ref="char:EOLhyphen"/>ſhips, than the deſert of this Diſcourſe. Such as it is, I am
+<pb facs="tcp:153850:4"/> humbly bold to offer it to you, taking this publick opportu<g ref="char:EOLhyphen"/>nity to declare my thankfulneſs ſo far as I am able, though not ſo far as I ought. I bow my knees before the Father of our Lord Jeſus Christ, begging for you the mercies of his Covenant and Kingdom: The great God lift up the light of his recon<g ref="char:EOLhyphen"/>ciled face upon you, granting you aſſurance of his Love, and perſeverance in his Truth in this World, and a Crown of Glory in a better Life. No more but my earnest request
+<pb facs="tcp:153850:4" rendition="simple:additions"/> that I may obtain the favour and honour to be</p>
+            <closer>
+               <signed>Your Ladyſhips Humbleſt Servant, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153850:5"/>
+            <pb facs="tcp:153850:5"/>
+            <head>TO THE CHRISTIAN READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>THou haſt here the Copy of a Sermon which was firſt taken from the Preacher's mouth by the Pen of a ready Writer: the Perſon who was at the pains of Tranſcribing of it, by his earneſt deſire hath pre<g ref="char:EOLhyphen"/>vailed with the Author to Re<g ref="char:EOLhyphen"/>view it, and to give him leave to Publiſh it. Here is no<g ref="char:EOLhyphen"/>thing
+<pb facs="tcp:153850:6"/> added to the Diſcourſe it ſelf, only ſome things in the Margin, to which ſome paſſages in the Sermon have relation. The Author declares he lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es not to be in Print, and that theſe few leaves had never been ſuffered to come abroad, had not more then or<g ref="char:EOLhyphen"/>dinary Obligations to comply with the requeſts of ſome, been laid upon him.</p>
+            <p>The Godly will not con<g ref="char:EOLhyphen"/>demn the Work, becauſe the ſubject is ſo ſerious and pro<g ref="char:EOLhyphen"/>fitable; for what can be of greater moment or benefit,
+<pb facs="tcp:153850:6"/> than to teach men the Leſſon of an holy upright life, as that which paves the way to an happy and comfortable death? or to deſcribe the bleſſed ad<g ref="char:EOLhyphen"/>vantagious death of the righte<g ref="char:EOLhyphen"/>ous, as that which encourages to the gracious and heavenly life of the Godly.</p>
+            <p>The Wicked will not blame it much, becauſe it is ſo very ſhort; let him that is moſt diſpleaſed with it, turn over but a few Pages, and he will certainly find ſomething that pleaſeth him, <hi>viz.</hi> the <hi>END.</hi>
+            </p>
+            <pb facs="tcp:153850:7"/>
+            <p> The Author hath endea<g ref="char:EOLhyphen"/>voured to offend no man by this Tractate: for its his de<g ref="char:EOLhyphen"/>ſign ſo to ſpeak, write, and live, as firſt to pleaſe God as much as he can, and then to diſpleaſe man as little as he can.</p>
+            <p>If thou reapeſt any benefit by what is here ſet before thee, give God the praiſe; for who ſhould have the Tribute of all Glory, but he that beſtows the Treaſure of all Grace? who ſhould have the Fruit, but he that planted the Tree? Mag<g ref="char:EOLhyphen"/>nifie God for any good this
+<pb facs="tcp:153850:7"/> Sermon ſhall do thee: for every good gift, and every perfect gift, comes from above, from the Father of Lights.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:153850:8"/>
+            <pb facs="tcp:153850:8"/>
+            <head>
+               <hi>BALAAM'S</hi> WISH,</head>
+            <epigraph>
+               <q>
+                  <bibl>Numb. XXIII. Verſ. 10</bibl>
+                  <p>The latter Part.</p>
+                  <p>
+                     <hi>Let me Dye the Death of the Righteous, and let my laſt end be like his.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Chapter (with the foregoing and following) contey<g ref="char:EOLhyphen"/>neth the Hiſtory of <hi>Balaam's Journey, Sacrifices,</hi> and <hi>Parables;</hi> and in this Nar<g ref="char:EOLhyphen"/>rative
+<pb n="2" facs="tcp:153850:9"/> there are two things wonderful and extraordinary recorded, by the Man of God <hi>Moſes;</hi> the one whereby the paſſion, the other whereby the covetouſnes of <hi>Balaam</hi> the falſe Prophet was rebuked and reſtrained: firſt <hi>his paſſion was reſtrained by Gods putting words into the mouth of his Aſs,</hi>
+               <note place="margin">2 <hi>Pet.</hi> 2.16. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>the dumb Aſs, ſpeaking with mans voyce, rebuked the madnes of the Prophet:</hi> anger had put the man beſides himſelf, ſo the Greek word there uſed ſigni<g ref="char:EOLhyphen"/>fies, and ſo it is in all other perſons; though <hi>Balaam</hi> were a wiſe man, yet when his paſ<g ref="char:EOLhyphen"/>ſion was up, his reaſon was down; <hi>Anger is that feaver of
+<pb n="3" facs="tcp:153850:9"/> the ſoul,</hi>
+               <note place="margin">Lacho<g ref="char:EOLhyphen"/>lere eſt comme une fievre chaude, qui nous fait dire un infini<g ref="char:EOLhyphen"/>te de cho<g ref="char:EOLhyphen"/>ſes ridi<g ref="char:EOLhyphen"/>cules &amp; nous fait entre<g ref="char:EOLhyphen"/>prendre beaucoup de ſottes actions, dont neus nous re<g ref="char:EOLhyphen"/>pentons, lors qu'elle eſt paſſee.</note> 
+               <hi>that makes the tongue talk idly,</hi> 'tis a ſhort fury, it puts the mind into a rage; you may ſee how he frets and fumes, and chafes and ſtorms and as wiſe as he was, had need to be admoniſhed by an Aſs,</p>
+            <p n="2">2<hi rend="sup">ly</hi>. <hi>His coveteouſneſs was rebuked by Gods putting words into his own mouth;</hi> and this was as great a wonder as the former, for though at firſt with ſome kind of maiden bluſhes and ſhamefac'd modeſty he ex<g ref="char:EOLhyphen"/>cuſed himſelf from the work, yet he <hi>loved the wages of un<g ref="char:EOLhyphen"/>righteouſneſs,</hi> in ſo much that in the 11 Verſe of the Epiſtle of <hi>Jude</hi>
+               <note place="margin">
+                  <hi>Jude</hi> 11.</note> he is called (in the ori<g ref="char:EOLhyphen"/>ginal) the <hi>Balaam of Reward,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <pb n="4" facs="tcp:153850:10"/> a man who had no other ſoul but gain; ſo that he being ſuch a perſon, it was a great wonder God ſhould ſo over-rule him as to make his tongue ſpeak that which his heart did leaſt love;<note place="margin">
+                  <hi>Prov.</hi> 16.1.</note> thus <hi>the preparations of the heart are in man, and the anſwer of the tongue is from the Lord,</hi> So in that ſpeech of <hi>Caiphas</hi> we read of, <hi>T'is expedient</hi> ſaith he <hi>that one man ſhould dye for the people; and this ſaid he not of himſelf, but being High Prieſt that year,</hi>
+               <note place="margin">
+                  <hi>John.</hi> 11.51.</note> 
+               <hi>he Prophecied that Jeſus ſhould dye for that Na<g ref="char:EOLhyphen"/>tion &amp;c.</hi> and ſo here, <hi>the Lord put a word into</hi> Balaam's <hi>mouth ſaying return unto</hi> Balak <hi>and thus thou ſhalt ſpeak:</hi>
+               <note place="margin">
+                  <hi>Numb.</hi> 23.5.</note> behold
+<pb n="5" facs="tcp:153850:10"/> how the Lord limits him and tyes him up, to ſpeak not his own words but the Lords: Againſt the inclination of his cove<g ref="char:EOLhyphen"/>teous heart his tongue muſt ſpeak: uſually out of the abun<g ref="char:EOLhyphen"/>dance of the heart the mouth ſpeaketh, but here it was not ſo, but from the irreſiſtible hand of God that was upon him, his mouth ſpake, <hi>the Lord thy God would not hearken unto</hi> Ba<g ref="char:EOLhyphen"/>laam,<note place="margin">
+                  <hi>Deut.</hi> 23.5.</note> 
+               <hi>but the Lord they God turned the curſe into a bleſſing becauſe the Lord thy God loved thee; God would not hearken to</hi> Balaam, but made <hi>Balaam</hi> hearken unto God, and ſo tipp his tongue with bleſſings, though he had a poiſoned and
+<pb n="6" facs="tcp:153850:11"/> envenomed heart, <hi>Saul</hi> went to <hi>Damaſcus</hi> to perſeeute, and God converted him to be a Preacher; and <hi>Balaam</hi> went to curſe, and God changed his words into a bleſſing; in the former God changed the heart. the latter God over-ruled the tongue.</p>
+            <p>The latter of theſe, <hi>the ſpee<g ref="char:EOLhyphen"/>ches and parables of</hi> Balaam. is the context; which is the firſt of his four parables; and in<g ref="char:EOLhyphen"/>deed when we read this para<g ref="char:EOLhyphen"/>ble, we may well ſay, who could have expected ſo ſweet a breath, from ſo foul a ſtomack, ſuch heavenly notes, from ſo helliſh an inſtrument, ſurely <hi>this is the finger of God;</hi> And
+<pb n="7" facs="tcp:153850:11"/> you may learn by the way, from Gods over-ruling this Prophet, <hi>That God can deal with them, that deal with the Devil;</hi> they which are moſt ſtudyed in the black Arts of Hell, muſt forget the language of that infernal pit, and ſpeak the dialect of Heaven,<note place="margin">
+                  <hi>Pſal.</hi> 118.23.</note> when God will have them; <hi>this is the Lords doing and it is marvellous in our eyes.</hi>
+            </p>
+            <p>The text is the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the laſt concluſion and winding up the firſt parable of <hi>Balaam,</hi> ſhewing the bleſſed eſtate of <hi>Iſrael,</hi> by his deſiring no other condition for himſelf hereafter than that which they were to enjoy; but enough for the con<g ref="char:EOLhyphen"/>texture,
+<pb n="8" facs="tcp:153850:12"/> or weaving together of the text with the other parts of this Hiſtory.</p>
+            <p>In the words themſelves, ob<g ref="char:EOLhyphen"/>ſerve, 1. Somethings generally and ſecretly implyed. 2 Some<g ref="char:EOLhyphen"/>things particularly and openly expreſſed.</p>
+            <p n="1">1 Somethings implyed, which are Two; Firſt <hi>That all thoſe that are pertakers of hu<g ref="char:EOLhyphen"/>manity are ſubject to mortality:</hi> the common law of death is of an imperial and impartial na<g ref="char:EOLhyphen"/>ture; it layes hold on all with<g ref="char:EOLhyphen"/>out exception, all without di<g ref="char:EOLhyphen"/>ſtinction, bad and good, righteous and unrighteous; this <hi>Balaam</hi> lays down as a foundation that the righteous
+<pb n="9" facs="tcp:153850:12"/> ſhall dye, <hi>there is a death even to the righteous.</hi> Even they that are freed from the ſting of death are not delivered from the ſtroak of death: they which are freed by it,<note place="margin">
+                  <hi>John.</hi> 20.3.4</note> are not free from it; our life (like the race of the two Diſciples) is to<g ref="char:EOLhyphen"/>wards the ſepulcher; as ſoon as we come out of the grave of the womb we haſten to the womb of the grave: we leave the place where we received life to enter into that where we ſhall find death; there will be a morning in which we ſhall not live till evening, or an evening in which we ſhall not live till morning: this is true of all in generall ſo as to except none, in
+<pb n="10" facs="tcp:153850:13"/> particular: the righteous not exempted; nay we read the firſt man that ever dyed was righteous <hi>Abel:</hi> the beſt (at that time) that lived, was the firſt that dyed.</p>
+            <p n="2">2<hi rend="sup">ly</hi>. This is implyed, <hi>that there is a great difference between the nature and conſequents of death to the righteous and to the ſinner,</hi> there is not only a holy difference before death but a happy difference after death; Therefore ſaith he, let my laſt end be like his. And indeed this is a very notable teſtimony of the immortality the ſoul, and of future re<g ref="char:EOLhyphen"/>compences from the mouth of a falſe Prophet, theſe words
+<pb n="11" facs="tcp:153850:13"/> ſhew, that he held there was a reward after death to the juſt;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>R. Schelo<g ref="char:EOLhyphen"/>moh. Hamme<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch in Michlal Yophi</hi> in loc.</note> elſe why ſhould he here deſire to be in their ſtate. Man ceaſeth not to be at death, but his ſoul ſurvives the body, ſo that he in<g ref="char:EOLhyphen"/>ſinuates thus much, that though the righteous dye <hi>as well</hi> as the wicked, yet the wicked dye not <hi>ſo well</hi> as the righteous: the righteous are taken away from ſinne, the wicked in their ſinne; as to death it ſelf there is no differenee, but in their death there is a difference; therefore, as the Apoſtle in a like caſe. <hi>They doe it to obteyn a corruptible Crown but we an incorruptible,</hi> ſo they dye to be damned,<note place="margin">1 <hi>Cor.</hi> 9.25.</note> we to be ſaved.</p>
+            <pb n="12" facs="tcp:153850:14"/>
+            <p> Secondly here is ſomething expreſſed, and ſo the words are a paſſionate, wiſh, conſiſting of 2 parts, <hi>the concomitant ſe<g ref="char:EOLhyphen"/>curity,</hi> and <hi>the conſequent fe<g ref="char:EOLhyphen"/>licity of a righteous mans death.</hi>
+            </p>
+            <p>Firſt he wiſheth <hi>the conco<g ref="char:EOLhyphen"/>mitant ſecurity in death; Let me dye the death of the righteous,</hi> or as it is in the primitive lan<g ref="char:EOLhyphen"/>guage <hi>Let my ſoul dye the Death of the upright.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>(Let my ſoul dye)</hi> the meaning of the dying of the ſoul is the parting of the ſoul from the body: the phraſe doth not import the dying of the rational ſoul, (which is in<g ref="char:EOLhyphen"/>corruptible) but the remo<g ref="char:EOLhyphen"/>ving of it out of the manſion of
+<pb n="13" facs="tcp:153850:14"/> the body, when it is tranſlated by death.</p>
+            <p>
+               <hi>(The death of the righteous)</hi> the word <hi>Yashar</hi> is uſed in oppo<g ref="char:EOLhyphen"/>ſition to that which is <hi>warp'd bent,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Rectus</hi>
+               </note> or <hi>crooked, Let my ſoul dye the Death of them that are upright and ſtraight</hi> in their principles and practices, and from this root it is you read that <hi>Iſrael</hi> is called <hi>Jeſurun,</hi> be<g ref="char:EOLhyphen"/>cauſe of the ſincerity and uprightneſs that ſhould be in them:<note place="margin">
+                  <hi>Joh.</hi> 1.47</note> 
+               <hi>an Iſraelite indeed is one in whom is no guile;</hi> ſuch whoſe Lives are ſtraight their Death is ſafe: though they are toſſed upon the waves, yet they are brought into a good and ſafe harbour by death. Death is the
+<pb n="14" facs="tcp:153850:15"/> end of all humane miſery, and the beginning of all divine good to the upright; the Se<g ref="char:EOLhyphen"/>pulchre is a ſanctuary, and death it ſelf a city of refuge to them; therefore, <hi>Let me dye the Death of the righteous:</hi> for that death which to others is <hi>the King of Terrors,</hi> to the upright is the <hi>King of Salem,</hi> that is of peace: the ſame red ſea which was a grave to the Egyptians, was a place through which the Iſraelites paſſed with ſafety, and the ſame death which conveys the wicked to the belly of hell, carries the godly into the boſom of <hi>Abraham.</hi>
+            </p>
+            <p>Secondly he wiſheth <hi>conſe<g ref="char:EOLhyphen"/>quent felicity after death, Let
+<pb n="15" facs="tcp:153850:15"/> my laſt end be like his: laſt end,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> the word uſed in the Hebrew denotes ſometimes <hi>poſterity,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 11.4.</note> 
+               <hi>and let my poſterity be like unto his,</hi> and to this the <hi>Septuagint</hi> had an eye,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Septuag.</hi>
+               </note> when they render the words, <hi>let my ſeed become as the ſeed of theſe:</hi> ſo <hi>Balaam</hi> in the former part of the wiſh, deſires, <hi>happyneſs for himſelf,</hi> in the latter, <hi>for his Children:</hi> this expoſition is not contrary to the Hebrew, nor to be con<g ref="char:EOLhyphen"/>temned: yet above <hi>ſeven times ſeventy</hi> tranſlators may be pro<g ref="char:EOLhyphen"/>duced, who here leave the <hi>ſe<g ref="char:EOLhyphen"/>venty interpreters,</hi> and turn the word as we, <hi>Extremum,</hi> the laſt end, the <hi>Arrears,</hi> or <hi>after Payment:</hi> and the mea<g ref="char:EOLhyphen"/>ning
+<pb n="16" facs="tcp:153850:16"/> is, the Saints of God have not their portion in this world; they have only a penſion, there's a great deal of Arrears the people of God ſhall receive at their death. So the ſame Hebrew word is uſed <hi>the end of that man is peace,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 37.37. <hi>Prov.</hi> 24.20. <hi>Prov.</hi> 23.18.24.14.</note> 
+               <hi>the laſt end, the Arrears</hi> of that man. <hi>So there is no Reward to the evill man,</hi> he hath nothing to come in the other world, but what he hath he hath here,<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>tinam poſt hujus vitae exi<g ref="char:EOLhyphen"/>tum, fe<g ref="char:EOLhyphen"/>licitatem conſequar his rectis repoſitam.</hi> Jun. in loc.</note> but <hi>to the righteous there is an End,</hi> the beſt is behind: So <hi>Junius</hi> upon this place. <hi>O that after my paſ<g ref="char:EOLhyphen"/>ſage out of this life, I might ob<g ref="char:EOLhyphen"/>teyn the happines that is laid up for theſe</hi> upright ones: ſo that of <hi>Solomon,</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 14.32.</note> 
+               <hi>the wicked is dri<g ref="char:EOLhyphen"/>ven
+<pb n="17" facs="tcp:153850:16"/> away in his wickednes but the righteous hath hope in his death,</hi> the meaning of the place may be, either the righ<g ref="char:EOLhyphen"/>teous hath hope in the wicked mans death, that is, that things will be better when the wicked dye: or elſe he hath hope in his own death, be<g ref="char:EOLhyphen"/>cauſe there is a reward to the righteous.<note place="margin">
+                  <hi>Pſal.</hi> 92.12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> And indeed the happines of the upright is not a flower that grows in the gar<g ref="char:EOLhyphen"/>den of this world, the gold which enriches them is not fetched from natures mine: it is at their laſt end they have their recompence: ſo the Iews note from that of the Pſalmiſt, <hi>the Iuſt ſhall flour<g ref="char:EOLhyphen"/>riſh
+<pb n="18" facs="tcp:153850:17"/> like the palm tree:</hi>
+               <note place="margin">Il ſavio Salomone chiama nell' Ec<g ref="char:EOLhyphen"/>cleſiaſte proſitto vant ag<g ref="char:EOLhyphen"/>gio d'uno parolache ſignifica romanen<g ref="char:EOLhyphen"/>teo varan<g ref="char:EOLhyphen"/>zo per<g ref="char:EOLhyphen"/>cioche in<g ref="char:EOLhyphen"/>quello che non ri<g ref="char:EOLhyphen"/>mane od advanza ma ſcorre eſe con<g ref="char:EOLhyphen"/>ſuma non c' egua<g ref="char:EOLhyphen"/>dagno, hor le coſe tranſito<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epaſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ano ſono beni che corro<g ref="char:EOLhyphen"/>no e fug<g ref="char:EOLhyphen"/>gono come ſe foſſero alati per andarſe<g ref="char:EOLhyphen"/>ne a volo.</note> the palm tree being a tall ſtrait tree caſt's its ſhade a great way off, from the body of the tree; ſo ſay they: the giving of re<g ref="char:EOLhyphen"/>ward to the juſt is a great way off, even in the world to come: whatever is on this ſide eternity is fleeting and periſhing, it can<g ref="char:EOLhyphen"/>not be of any great moment be<g ref="char:EOLhyphen"/>cauſe it is but for a moment, <hi>that is of no great value, that is but of a ſmal continuance:</hi> therefore ſuch a reward will not content a righteous man; the <hi>Preacher</hi> when he ſpeaks of profit or gain uſes a word in the <hi>Hebrew</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that imports ſomething which <hi>remains</hi> or <hi>abides,</hi> to teach that that which abides
+<pb n="19" facs="tcp:153850:17"/> not is no true gain or pro<g ref="char:EOLhyphen"/>fit: now becauſe the upright find not this here, they ſtay for reward <hi>till their laſt end,</hi>
+               <note place="margin">Turretin. Homil. 3 Supra Luc. 12.5, 6. &amp;c.</note>
+            </p>
+            <p>But enough for the unfoul<g ref="char:EOLhyphen"/>ding the text,</p>
+            <p>Now conſidering together the Wiſh, the Perſon wiſhing and the ſucceſſe of his wiſhing, we may gather this propoſi<g ref="char:EOLhyphen"/>tion worthy our obſervation.</p>
+            <p>
+               <hi>To dye the Death and have the laſt end of the upright, may be the Wiſh and deſire of ſuch, as for their wickednes ſhall never obteyn it.</hi>
+            </p>
+            <p>You ſee <hi>Balaam</hi> a falſe Prophet, a Conjurer, one that dealt with the Divel, a repro<g ref="char:EOLhyphen"/>bate, one that is now fewel
+<pb n="20" facs="tcp:153850:18"/> for unquentchable flames, to burn upon to all eternity; wiſhed he might dye the Death of the upright.</p>
+            <p>Such being guilty of dam<g ref="char:EOLhyphen"/>nable hypocriſy may go loa<g ref="char:EOLhyphen"/>den with all their wiſhes to hell:<note place="margin">
+                  <hi>Infer<g ref="char:EOLhyphen"/>nus ple<g ref="char:EOLhyphen"/>nus eſt bonis af<g ref="char:EOLhyphen"/>fectibus &amp; desi<g ref="char:EOLhyphen"/>deriis Paradi<g ref="char:EOLhyphen"/>ſus an<g ref="char:EOLhyphen"/>tem bonis effectibus &amp; operi<g ref="char:EOLhyphen"/>bus.</hi> Boſq Conſol. Deſper.</note> t'is an expreſſion of a learned (in this no) Papiſt, that hell <hi>is full of good wiſhers but all the good workers they go to heaven:</hi> The Scripture is full to this purpoſe, ſuch were they that ſaid, <hi>Lord Lord open to us, yet, depart from me ye workers of Iniquity;</hi> ſuch are all they whoſe works and wiſhes contradict one another, or whoſe works run not pa<g ref="char:EOLhyphen"/>ralel with their wiſhes. Now
+<pb n="21" facs="tcp:153850:18"/> ſuch perſons though they never ſo earneſtly deſire yet ſhall never obtein the death of the righteous: and truly as the great God doth not judge ac<g ref="char:EOLhyphen"/>ding to our wiſhes, but our works, ſo neither wiſe men; our endeavours are the pulſe by which we may learn the ſtate and conſtitution of our wiſhes; though there be but one pulſe that runs through the whole body, yet the Phy<g ref="char:EOLhyphen"/>ſitian feels it at the hand, and ſo at the hand in our works we are chiefly to try wither our wiſhes are true and effectual.</p>
+            <p>Now to explain this, there are 2 things would be looked into, Firſt <hi>why is the death
+<pb n="22" facs="tcp:153850:19"/> and laſt end of the righteous deſired by the wicked?</hi> Se<g ref="char:EOLhyphen"/>condly <hi>how comes it to paſſe that they do not obteyn it though they do deſire it.</hi>
+            </p>
+            <p>For the firſt of theſe, <hi>why is the death and laſt end of the righteous deſired by the wicked?</hi> To anſwer this, it proceedeth from the conviction of the happines that the godly enjoy in and after death; that death finds and leaveth them in a good eſtate and lets them in to a better. This is that that is rivited in the natures of all men, they believe it is a great deal better with the godly at their death then it is with the ungodly: there is
+<pb n="23" facs="tcp:153850:19"/> in the worſt of men a ſpark of conſcience, by the light of which they may read that its more ſafe to be in the eſtate of good men when death comes, then in that of the wicked. Conſcience is a practical Prea<g ref="char:EOLhyphen"/>cher in the boſomes of men that much preſſes and applyes this doctrine, if men did hearken to its inſtructions. We need go no further to school, than into our own hearts where this leſſon is a<g ref="char:EOLhyphen"/>bundantly taught, conſcience being the ſchool Miſtriſs: which made that Atheiſt (when he was asked which he liked beſt, the licentious looſe lives of the profane, or the ſtrict
+<pb n="24" facs="tcp:153850:20"/> holy lives of the godly) to anſwer <hi>cum illis mallem vi<g ref="char:EOLhyphen"/>vere, cum his mori, I had ra<g ref="char:EOLhyphen"/>ther live with thoſe, and dye with theſe:</hi> he had ſayd bet<g ref="char:EOLhyphen"/>ter, I would choſe to live with them, which I would be willing to dye with. The godly then are in and by death made happy in the very ap<g ref="char:EOLhyphen"/>prehenſions of the wicked.</p>
+            <p>In the following of which truth, let us conſider, Firſt the happy condition of the Saints in and by death poſitively, 2ly. relatively.</p>
+            <p>Firſt poſitively, now there are three things wicked men are convinced of, that makes a godly mans death ſo much to
+<pb n="25" facs="tcp:153850:20"/> be preferred and deſired, Firſt <hi>a total ceſsation from ſuffering,</hi> and therefore it is called <hi>a reſt, there remaineth a reſt to the people of God,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 49.</note> 
+               <hi>a Sabbatiſme,</hi> a keeping of a Sabbath; death unto the Godly is a full ſtop and period to all the miſeries of the preſent world: after their painful walk there is a per<g ref="char:EOLhyphen"/>fect reſt: in this world we la<g ref="char:EOLhyphen"/>bour for reſt, in that, we reſt from all our labours. We were made by God and can never be happy till we are with God, we came out of his hands and can neuer reſt till wee are in his boſom; there is a ſweet calm from the ſtorms of the world, a bleſſed ſilence from the cla<g ref="char:EOLhyphen"/>mous
+<pb n="26" facs="tcp:153850:21"/> of the world; an abſence of all evil, <hi>Sorrow ſhall de<g ref="char:EOLhyphen"/>part and ſighing flee away,</hi>
+               <note place="margin">
+                  <hi>Eſay.</hi> 35.10.</note> ſaith the Prophet, and <hi>tears ſhall be wiped away,</hi> God (my friends) cannot ſo much as afflict a godly man in the other world. I will ſpeak a great word, that God that can do all things, cannot do this thing, as he cannot deſtroy his People in this life, ſo he cannot ſo much as aflict them in the other. It is much with Gods people as with the ſtones that built the Temple, they were hewed and ſquared at the Quarry-ſide before they were brought to it, and there was no noiſe of Axes and Hammers in the Tem<g ref="char:EOLhyphen"/>ple,
+<pb n="27" facs="tcp:153850:21"/> So there is no diſturbance in the Kingdom of God, but a perfect reſt after our painful walking, Now this being upon the hearts of all men to know there is ſuch a reſt, the wic<g ref="char:EOLhyphen"/>kedeſt of men cannot but de<g ref="char:EOLhyphen"/>ſire it.</p>
+            <p>Secondly, at the death of a righteous man <hi>he obtaynes a per<g ref="char:EOLhyphen"/>fect degree of ſanctity,</hi> a conſum<g ref="char:EOLhyphen"/>mation of holineſs, you know the greateſt perfection we can here attaine unto, is this, an humble acknowledgment of the imperfections we have, and endeavouring after the per<g ref="char:EOLhyphen"/>fection we want; but now, though there be never ſo much imperfection in our ſtate of
+<pb n="28" facs="tcp:153850:22"/> grace here, yet the death of the body is the death of the body of death, the funeral of all our corruptions. This expre<g ref="char:EOLhyphen"/>rience teacheth, that whilſt the ſoul dwels in the body, ſinne will dwell in the ſoul, the Saints may caſt it down but they cannot caſt it out,<note place="margin">Dejicere poſſunt non eji<g ref="char:EOLhyphen"/>cere.</note> they may hinder it from having a throne in their hearts, but they cannot hinder it from having a room there; doe what they can there is no full ſeperation between ſinne and the ſoul, be<g ref="char:EOLhyphen"/>fore a Seperation between the body and the ſoul, there it is that <hi>that which is imperfect ſhall be done away,</hi> as it is with a man that hath been under a long
+<pb n="29" facs="tcp:153850:22"/> fit of ſickneſſe, though he be truly recovered from his di<g ref="char:EOLhyphen"/>ſeaſe, yet he is a long while before he can come to his full ſtrength, (before he pick up his crummes) ſo its with the Saints here; though they are delivered from ſickneſſe of ſin that it ſhall not be to death, yet not from ſins of weakneſſe until death. Or as it is with one that hath layn a long time in priſon, though he be now really ſet at large, yet he may go limping all his dayes by the hurt he received from thelrons when he was in priſon, ſo Gods people have ſo many corruptions as to make them go halting to their very graves.
+<pb n="30" facs="tcp:153850:23"/> in the new man there is enough of the old man to make them continually greive and mourne whilſt they are here; and God ſuffers this, that his people may depend more upon ju<g ref="char:EOLhyphen"/>ſtifying grace, and be quickned to look more after ſanctifying grace, and be longing after con<g ref="char:EOLhyphen"/>ſummating grace,</p>
+            <p>Thirdly there is this in the death of a righteous man, that it is to him <hi>an immediate paſ<g ref="char:EOLhyphen"/>ſage to heaven,</hi> 1 It is a paſ<g ref="char:EOLhyphen"/>ſage, it is that which brings us to a happy journeys end; death is the ſhip that waft's us over to the ſhoar of a bleſſed eternity, 'tis that boat that is ſent to bring us to the landing
+<pb n="31" facs="tcp:153850:23"/> ſtairs of our fathers houſe.<note place="margin">
+                  <hi>Gen.</hi> 24.57.</note> Much like <hi>Abrahams</hi> ſervant that went to fetch <hi>Rebecca</hi> to be married to the ſon of the pro<g ref="char:EOLhyphen"/>miſe; when they enquired at the mouth of the damſel, ſhee willingly and preſently gives her conſent to go with him.</p>
+            <p>So when death comes with his pale horſe for a Saint of God,<note place="margin">
+                  <hi>Gen.</hi> 45.27.28.</note> he willingly gets up behind him; or (as one) death is like the waggons, Jo<g ref="char:EOLhyphen"/>ſeph ſent to his father <hi>Jacob</hi> out of Egypt; when he ſaw the waggons t'is ſaid the good Old-mans heart <hi>revived</hi> within him, and he cryed out <hi>Is Jo<g ref="char:EOLhyphen"/>ſeph my ſon yet alive, I will go down and ſee him before I dye,</hi>
+               <pb n="32" facs="tcp:153850:24"/> ſo when the Saints ſee the wag<g ref="char:EOLhyphen"/>gons of death, their hearts re<g ref="char:EOLhyphen"/>vive, Jeſus is alive, I will go to Jeſus.</p>
+            <p n="2">2 And as it is a paſſage, ſo an <hi>immediate paſſage,</hi> that is, there is no ſuch thing as a Pur<g ref="char:EOLhyphen"/>gatory, any place between Earth and Heaven where they are lodged,<note place="margin">
+                  <hi>Luk.</hi> 16.22.</note> as ſoon as Laza<g ref="char:EOLhyphen"/>rus was dead he was directly carried from dives his gate to Abrahams boſom: as ſoon as the penitent thief was dead he was carried from the croſſe on which he was crucifyed, to the Kingdom where he is glorified; <hi>This day thou ſhalt be with me in Paradice,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 23.23.</note> As ſoon as the ſoul is breathed out of the
+<pb n="33" facs="tcp:153850:24"/> body, it is with God; there is no temporal puniſhment held forth in the Scripture after this life, and therefore there is no Purgatory. Purgatory dero<g ref="char:EOLhyphen"/>gates from the blood of Chriſt, <hi>which purgeth us from all ini<g ref="char:EOLhyphen"/>quity:</hi>
+               <note place="margin">1 <hi>John</hi> 1.7.</note> If there be any ſuch thing as Purgatory, (as the Papiſts dream) you muſt ſay one of theſe two things.</p>
+            <p>Either Chriſts blood doth not cleanſe from all ſins, or not perfectly from ſome ſins; but both theſe are falſe, there<g ref="char:EOLhyphen"/>fore it follows there is no ſuch thing. Yea what would be<g ref="char:EOLhyphen"/>come of thoſe that ſhall be alive at the day of Judgement, ſurely they will have as much need of
+<pb n="34" facs="tcp:153850:25"/> Purgatory as others, before they get to Heaven.<note place="margin">
+                  <hi>Purgatorii dolores cum nec ſubiiſſe nec toleraſſe legatur Chriſtus, qui ta<g ref="char:EOLhyphen"/>men omne genus dolorum pro nobis pertulit cos fictitios eſſe conſequitur, nulli credentium perti<g ref="char:EOLhyphen"/>meſcendos: ſequeretur e<g ref="char:EOLhyphen"/>nim aliquos dolores Chri<g ref="char:EOLunhyphen"/>ſtum non tuliſſe noſtra cauſa quod abſurdum.</hi> Bucan. loc. com.</note> Beſides, our Lord Chriſt bare all that miſe<g ref="char:EOLhyphen"/>ry and puniſhment which the Elect were elſe to have ſuffered, but he never bore the do<g ref="char:EOLhyphen"/>lours of Purgatory, therefore its evi<g ref="char:EOLhyphen"/>dent they are but feigned ſorrows, and not to be dreaded by Believers.</p>
+            <p n="3">3. <hi>Its an immediate paſſage to HEAVEN;</hi> it lets the Godly into the Kingdom of glorious bliſs; it is <hi>janitor coelorum,</hi> the Porter that opens Heavens gate to the Saints, that
+<pb n="35" facs="tcp:153850:25"/> they may <hi>enter into the joy of their Lord:</hi> a joy ſo great, that it cannot all enter into them, therefore they are ſaid to enter into it: a joy ſo great, that no<g ref="char:EOLhyphen"/>thing ſhall be found in it but what is deſirable, and nothing can be deſired in it but is ſhall be found. I may ſay of Heaven, the portion of the Godly, what was ſaid by the Queen of the <hi>South,</hi> when ſhe arrived at <hi>So<g ref="char:EOLhyphen"/>lomons</hi> Court: when ſhe ſaw the magnificence of his Palace, the Liveries of his Servants, the ſtate of his Attendance, there was no more Spirit left in her, but ſhe breaks forth, <hi>the one half was not told me in my own Coun<g ref="char:EOLhyphen"/>try;</hi> thus when the righteous
+<pb n="36" facs="tcp:153850:26"/> come to Heaven, when they be<g ref="char:EOLhyphen"/>hold the Palace of Eternity beſpangled with Sun-beams of light and glory, when they view the Robes of Immortality, when they ſee ten thouſands that ſtand at Gods Throne, and ten thouſand times ten thou<g ref="char:EOLhyphen"/>ſands that Miniſter before him, they ſhall burſt out into admi<g ref="char:EOLhyphen"/>ration, and come to us Mini<g ref="char:EOLhyphen"/>ſters ſaying, in the other life you did not tell us the half of the glory now revealed in and to us: indeed if every word we ſpeak were a tongue, and every thought we think an heart, yet we ſhould not be able to ſpeak or think how great that glory ſhall be: I ſhall therefore ſpend
+<pb n="37" facs="tcp:153850:26"/> no more time on this, but only put you in mind of the good old ſaying, <hi>Let others ſtudy how great the glory is, but let us ſtudy how we may beſt obtain, and be fitteſt to enjoy it.</hi>
+            </p>
+            <p>But then Secondly, as we may conſider the death of a righteous man abſolutety, ſo comparatively; compare the death of the righteous, with the death of any ſort of perſon you can name, and you ſhall ſee the death of a righteous man is to be preferr'd, and that by the light of a wicked mans own reaſon.</p>
+            <p>To inſtance in particulars;</p>
+            <p>Firſt, compare <hi>the death of the righteous, with the death of
+<pb n="38" facs="tcp:153850:27"/> the Infant;</hi> there are ſome per<g ref="char:EOLhyphen"/>ſons that having conſidered the ſin, miſery, and vanity of this preſent life, have ſaid, That <hi>the beſt thing in the world is not to be born, and the next beſt thing is to dye as ſoon as we are born;</hi> and truly the World is like a ſtormy Ocean, or flame of Fire; now if you were to go over a tempeſtuous Sea, you would not ſay your paſſage was too ſhort;<note place="margin">Non puo eſſer trop<g ref="char:EOLhyphen"/>po preſto quello che e il mig<g ref="char:EOLhyphen"/>liore, anzi e ſempre tardo il laſciar la vita mi<g ref="char:EOLhyphen"/>ſera per la felice.</note> ſo if a man was to run through a flame, he would not ſtand lingring, but make what haſt he could, and the ſooner through the better: it is never too ſoon to dye, but rather alwayes late to leave a miſerable ſinfull, for a happy
+<pb n="39" facs="tcp:153850:27"/> ſinleſs life. Beſides, the ſhorter our lives, the eaſier our account we are to give to God; ſo that if ſome were to dye, they would chooſe to dye the death of the Infant.</p>
+            <p>But alas, though our In<g ref="char:EOLhyphen"/>fancy be the beſt time to dye in, becauſe the Soul is not ſtained with actual ſin, yet our Infancy is a ſtate of Death; we were born Enemies to God, Children of Hell,<note place="margin">
+                  <hi>Eph.</hi> 2.3.</note> 
+               <hi>Children of wrath by na<g ref="char:EOLhyphen"/>ture,</hi> and ſo obnoxious to Gods diſpleaſure, and to be Children under his wrath, which to en<g ref="char:EOLhyphen"/>dure is intollerable, and to a<g ref="char:EOLhyphen"/>void is impoſſible.</p>
+            <p>The beſt of us all was born with a poyſoned and infected
+<pb n="40" facs="tcp:153850:28"/> nature, we brought enough with us into the World to ruine us; if we ſhould dye in our moſt innocent eſtate, yet we are depraved by evil, and deſtitute of good; there is enough of the Old man in the youngeſt babe to damn it; when you behold the prophaneſs of the World, and ſee the profligate Impie<g ref="char:EOLhyphen"/>ties, Drunkeneſs, Adultery, Murders, and other ſins that are committed; when you hear the curſed and damned Oathes, thoſe dreadfull imprecations of flagitious men, the nature of an harmleſs Infant is the ſeed-plot of all this; ſo that a poor innocent babes death, is more dangerous than the death of the
+<pb n="41" facs="tcp:153850:28"/> righteous; <hi>we may hope well of ſuch babes, but we may believe better of the righteous.</hi>
+            </p>
+            <p>Secondly, compare <hi>the death of the righteous, with the death of a Patient;</hi> ſome perſons you know they are often choo<g ref="char:EOLhyphen"/>ſing in their diſcourſes what kind of death to dye, whether a ſudden and violent death, or a death by the hand of a long ſickneſs; many perſons would chooſe this latter, becauſe, ſay they, they have time to repent, time for others to pray for them, and have warning by the languiſhing condition they are in: But alas conſider, God may take this latter time to judge thee in, becauſe thou
+<pb n="42" facs="tcp:153850:29"/> tookeſt not thy former time to ſeek him in; he that has pro<g ref="char:EOLhyphen"/>miſed life to the penitent, has not promiſed repentance to e<g ref="char:EOLhyphen"/>very one that is under a long ſickneſs. 'Tis true, thy warn<g ref="char:EOLhyphen"/>ings are a mercy, but better it is to dye the death of the righ<g ref="char:EOLhyphen"/>teous, though thou ſhouldeſt dye ſuddenly: If thou art righteous, thou art habitually prepared; but if thou hadſt never ſo long ſickneſs, it would be very uncertain whether that would contribute to thy pre<g ref="char:EOLhyphen"/>paration or not.</p>
+            <p>I have often thought a Mi<g ref="char:EOLhyphen"/>niſter could not have a better time to ſpeak to, and work upon a people, then when they
+<pb n="43" facs="tcp:153850:29"/> are ſick, but I find the quite contrary, and that they that have neglected the things of their peace in the time of their health, though they have had a great deal of time to prepare themſelves, when exerciſed with a lingring ſickneſs, yet they have not improv'd it: Therefore truſt not too much to that.</p>
+            <p>Chriſtians, If a man have many ſtrong and able Beaſts, and he ſhould take the burthen off from theſe, and ſhould have but one pittifull creature, that was lame and ſcarce able to go, and ſhould lay it upon this, would you not think this a ſtrange man? Thus it is with
+<pb n="44" facs="tcp:153850:30"/> many men. O! the many ſtrong and luſty dayes men have, and yet lay the whole burthen of their repenting and turning unto God, upon the few lan<g ref="char:EOLhyphen"/>guiſhing dayes of ſickneſs; but this I may ſay, thoſe that forget holineſs till ſickneſs, ſeldom remember it in ſickneſs; we ſee in ſuch ſickneſſes uſually, when the Phyſicians have done,<note place="margin">
+                  <g ref="char:V">Ʋ</g>bi deſi<g ref="char:EOLhyphen"/>nit Me<g ref="char:EOLhyphen"/>dicus, incipit Theolo<g ref="char:EOLhyphen"/>gus.</note> the Divine begins; a moſt dreadfull deluſion: Men deſire a lingring ſickneſs, but the Devil knows there is not one of ten thouſand lets his ſin live long with him, but his repen<g ref="char:EOLhyphen"/>tance dyeth with him; remem<g ref="char:EOLhyphen"/>ber as God did not love a blind Sacrifice, ſo not a ſick Sacrifice.</p>
+            <pb n="45" facs="tcp:153850:30"/>
+            <p> Thirdly, compare <hi>the death of the righteous, with the death of the Honourable;</hi> If many a man were to chooſe what death he would dye, he would dye the death of a King, or ſome Great Perſon, that he might be magnificently entombed, and make poſterity to know his re<g ref="char:EOLhyphen"/>nown: But alas, Gods Tribu<g ref="char:EOLhyphen"/>nal and the Grave are no re<g ref="char:EOLhyphen"/>ſpecters of perſons; there is no difference between the Peaſant and the Prince, the Leather and the Velvet Coat, the Canvaſs Suit and the Tunick and Veſt, the Presbyter and the Prelate, even then the Kings of the Earth, are but Kings of Earth; you know when Trees grow in
+<pb n="46" facs="tcp:153850:31"/> a Wood all together, we can ſay there ſtands an Oak, and there an Elme, and there a Cedar, and there a Shrub, but when theſe Trees are burnt and turned into aſhes, which of you can ſay, this is the aſhes of ſuch a Tree, or ſuch a Tree.</p>
+            <p>Death is that great Leveller that maketh all perſons equal: In the mowing of a Field, though ſome graſs be higher, and ſome flowers bigger than others, yet when they are mowed they lye all flat upon the ground; an Earthen Pot though never ſo great, is as ſubject to be broken as a little one. 'Tis a very remarkable
+<pb n="47" facs="tcp:153850:31"/> obſervation the Jews have of <hi>David,</hi>
+               <note place="margin">1 <hi>Kings</hi> 1. <hi>per totum, compa<g ref="char:EOLhyphen"/>red with</hi> 1 <hi>Kings</hi> 2.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> in his life time he is ſeldom mentioned in Scripture without ſome preface of Ho<g ref="char:EOLhyphen"/>nour, as <hi>King David, my Lord the King, &amp;c.</hi> and ſo he is a<g ref="char:EOLhyphen"/>bout forty times called <hi>King David,</hi> and <hi>my Lord the King David,</hi> in one Chapter; but now ſee what an alteration there is in the firſt verſe of the next Chapter, <hi>When the dayes of Da<g ref="char:EOLhyphen"/>vid drew nigh that he ſhould dye;</hi> He that was <hi>my Lord the King</hi> ſo often a little before, now he comes to dye is plain <hi>David;</hi> ſo that you ſee death maketh all equal. Do you then deſire to dye the death of a Great man! Surely it is not
+<pb n="48" facs="tcp:153850:32"/> ſo good as to dye in the fear of the great God: and therefore <hi>Hezekiah</hi> a potent and noble Prince, when he had a meſſage of death, pleads not, Remem<g ref="char:EOLhyphen"/>ber Lord that I have been a King, that I have worn the Crown, and ſwayed the Scep<g ref="char:EOLhyphen"/>ter,<note place="margin">
+                  <hi>Iſa.</hi> 38.3.</note> but <hi>Remember Lord that I have walked before thee in truth, with a perfect heart, and have done that which is right in thy ſight:</hi> its a poor thing in death to have been ſaluted, <hi>Your Lordſhip,</hi> and <hi>Your Lady<g ref="char:EOLhyphen"/>ſhip, Your Honour,</hi> and <hi>Your Grace, Your Highneſs,</hi> and <hi>Your Majesty</hi> at every word, if we cannot ſee our ſelves to be the perſons <hi>whom the
+<pb n="49" facs="tcp:153850:32"/> King of Heaven delights to ho<g ref="char:EOLhyphen"/>nour.</hi>
+            </p>
+            <p>Fourthly, another had ra<g ref="char:EOLhyphen"/>ther <hi>dye the death of the Weal<g ref="char:EOLhyphen"/>thy;</hi> many perſons we ſee in the World, they toyle, and la<g ref="char:EOLhyphen"/>bour, and ſweat, and if you ask them the reaſon, it muſt needs be this, that they might leave ſomething behind them when they dye.</p>
+            <p>Chriſtians, that is not our own, which we cannot carry with us into another World; the rich man in this reſpect is like a poor man, that is invited to a great mans Table; whilſt he is there, he makes uſe of the Plate, and Silver Spoons, and other things, but he muſt
+<pb n="50" facs="tcp:153850:33"/> pocket up none of theſe, but leave them behind him when he goes thence; ſo God gives him a great many things here to uſe, but he muſt leave them all at death.</p>
+            <p>Or juſt as it is with Travel<g ref="char:EOLhyphen"/>lers, who make uſe of the mo<g ref="char:EOLhyphen"/>vables of an Inne for that night they lodge there, but the next morning they leave them, and go onward in their journey;<note place="margin">
+                  <hi>Job</hi> 21.13.</note> 
+               <hi>They ſpend their dayes in wealth and in a moment they go down to the grave:</hi> Who would not chooſe to dye the death of the righteous, rather than of <hi>Na<g ref="char:EOLhyphen"/>bal,</hi> or the <hi>rich man</hi> in the Goſpel? What a vain thing is man to deſire to dye rich? To
+<pb n="51" facs="tcp:153850:33"/> leave a portion of Goods be<g ref="char:EOLhyphen"/>hind him, and not to have a good portion in Heaven? Surely the wealth and accom<g ref="char:EOLhyphen"/>modations of the World, do not make any perſon the more fit or willing to dye. I re<g ref="char:EOLhyphen"/>member a ſtory, that when the Duke of <hi>Venice</hi> ſhewed <hi>Charles</hi> the 5th. at <hi>Venice</hi> his Earthly Paradice, ſtately Palace,<note place="margin">
+                  <hi>Haec ſunt quae faci<g ref="char:EOLhyphen"/>unt invi<g ref="char:EOLhyphen"/>tos mori.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Rabb.</hi>
+               </note> Gar<g ref="char:EOLhyphen"/>dens, Riches, Furniture, Plate and Jewels, and asked the Emperor what he thought of them; he doth in a moſt Chri<g ref="char:EOLhyphen"/>ſtian manner make no other anſwer but this, <hi>Theſe are the things that make men unwilling to dye:</hi> Another ſhewing a pri<g ref="char:EOLhyphen"/>vate Chriſtian the like ſight,
+<pb n="52" facs="tcp:153850:34"/> expecting to be admired for it, drew this ſpeech from the Chriſtian; <hi>Sir, you had need make ſure of heaven, or elſe you will be a great loſer when you dye.</hi> He that has ſet his heart on theſe things while he poſ<g ref="char:EOLhyphen"/>ſeſſes them, they will go to his heart when he is torn from them, he will be unwilling to dye.</p>
+            <p>Fifthly, let us compare <hi>the death of the righteous, with the death of the Valiant;</hi> ſome would chooſe this: what large renown have many that have dyed upon the place, in an en<g ref="char:EOLhyphen"/>gagement againſt the Enemies of their Country? How doth their fame ſhine in Hiſtory, and
+<pb n="53" facs="tcp:153850:34"/> the Chronicles of Nations em<g ref="char:EOLhyphen"/>balm their Names to poſterity? Such as that glorious King of <hi>Sweden Guſtavus Adolphus, Killed but not Conquered;</hi> and that noble Captain <hi>Conſalvo,</hi> who being counſelled to retire a little backwards from the E<g ref="char:EOLhyphen"/>nemy, made this anſwer,<note place="margin">
+                  <hi>Eſſendo egli conſigliato a voler retirarſi alquanto in<g ref="char:EOLhyphen"/>dietro, riſpoſe, deſiderare d'haver piu toſto al preſente la ſua ſepoltura un palmo di terrerro piu avanti, che col' retirarſi indietro poche braccia allungar la vita cen<g ref="char:EOLhyphen"/>to anni.</hi> Guicciard.</note> That <hi>he had rather at that time get a ſpan of ground forwards, though he were ſure to find his grave there, then retreat a few yards to lengthen out his life a hun<g ref="char:EOLhyphen"/>dred years.</hi> But though this may ſeem to be a brave and
+<pb n="54" facs="tcp:153850:35"/> noble thing to dye ſo, yet how poor comfort is it to their ſouls, if they be not <hi>Souldiers of the Lamb, called, choſen, and faithfull?</hi> What does it avail them <hi>to be praiſed where they are not, and be tormented where they are?</hi> All their courage and reſolution, all their valour and magnanimity, what is it to their Salvation without grace and piety? They are lauda<g ref="char:EOLhyphen"/>ble Virtues, but not ſaving Graces: 'Tis true, it is very honourable for a man to dye for his Country, but <hi>let me dye the death of the righteous.</hi>
+            </p>
+            <p>Sixthly, let us compare <hi>the death of the righteous, with the death of the Learned;</hi> if ſome
+<pb n="55" facs="tcp:153850:35"/> men were to chooſe what death they would dye, they would chooſe to dye the death of a <hi>Philoſopher;</hi> when they have read of <hi>Seneca, Plato, Socrates,</hi> and others, with how much conſtancy and courage they looked death in the face, they think it brave to dye like one of theſe; but one ſpark of Grace is a better Lanthorn to lead you to happineſs, than all the reaſon and wiſdom thoſe men had; they were wiſe <hi>to admiration,</hi> and yet not wiſe <hi>to ſalvation.</hi> It was the ſpeech of St. <hi>Auſtin</hi> in his time,<note place="margin">Surgunt indocti &amp; rapi<g ref="char:EOLhyphen"/>unt coe<g ref="char:EOLhyphen"/>lum, &amp;c.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>learned men ariſe and ſnatch Heaven away, whilſt we with all our Learning go loaden to
+<pb n="56" facs="tcp:153850:36"/> Hell.</hi> Therefore what will it profit to dye the death of the Learned? I tell you, <hi>Solomons</hi> repentance was better to dye with, than all <hi>Solomons</hi> wiſ<g ref="char:EOLhyphen"/>dom; Learning is a poor cor<g ref="char:EOLhyphen"/>dial to a dying man; Scholar<g ref="char:EOLhyphen"/>ſhip is a rare Ornament, but a miſerable Comforter, when you come to dye; a good Hand<g ref="char:EOLhyphen"/>maid to Godlineſs, but a bad ſupplyer of the place of it when Godlineſs is wanting: There<g ref="char:EOLhyphen"/>fore what will it profit a man to dye the death of the greateſt <hi>Philoſopher</hi> that ever was, if that be all.</p>
+            <p>Seventhly, another it may be would chooſe <hi>to dye the death of the Antient;</hi> ſome ſay,
+<pb n="57" facs="tcp:153850:36"/> if they might chooſe what death they would dye, they would wiſh to dye in a good old age, to ſpin out the thread of their lives to a great length, and to go away at laſt like a Lamp for want of oyl; gradu<g ref="char:EOLhyphen"/>ally to ſpend the radical moi<g ref="char:EOLhyphen"/>ſture of the body, and then without pain to yield unto na<g ref="char:EOLhyphen"/>ture: But unleſs you dye the death of the righteous, the lon<g ref="char:EOLhyphen"/>ger your death is deferred, the greater will be the miſery that will be inflicted; the longer a ſinner lives, the more wrath he layes up for himſelf; and therefore excellent is that ex<g ref="char:EOLhyphen"/>preſſion of the Apoſtle,<note place="margin">
+                  <hi>Rom.</hi> 2.5</note> 
+               <hi>Accor<g ref="char:EOLhyphen"/>ding to thy hardneſs and im<g ref="char:EOLhyphen"/>penitent
+<pb n="58" facs="tcp:153850:37"/> heart thou treaſureſt up wrath againſt the day of wrath:</hi> What is the meaning of the phraſe? 'Tis juſt like a covetous Miſer that is making of a hoard, he is every day adding ſomething to it till it come to a great ſum: So thou <hi>treaſureſt up wrath;</hi> the lon<g ref="char:EOLhyphen"/>ger God continues thee, the greater the wrath will be at laſt which thou muſt ſuffer. Or as a man that every day is carry<g ref="char:EOLhyphen"/>ing a ſtick to a pile of wood, with which at laſt he is to be burned; the longer he lives the greater the pile, and the more formidable the fire will be: the longer God forbears thee, the more intereſt thou
+<pb n="59" facs="tcp:153850:37"/> muſt pay: he will be thy ſorer enemy, becauſe he was no ſooner thine enemy. If thou liveſt to be an Old man, and not a Babe in Chriſt, thy caſe is moſt dreadfull: Old age in it ſelf is not deſirable; an Old man is <hi>an animated grave,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>a Sepulchre with a little life in it;</hi> it is the refuge and anvil for diſeaſes to meet in and beat upon; and therefore they are called <hi>evil dayes in which there is no pleaſure.</hi>
+               <note place="margin">
+                  <hi>Eccleſ.</hi> 12.1.</note> 'Tis true, the hoary head (when nature has ſnowed Gray hairs upon a man) is <hi>a Crown of Glory,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 16.31.</note> but it is no Crown to thee, unleſs <hi>found in the way of righteouſ<g ref="char:EOLhyphen"/>neſs:</hi> Therefore the Text is thus
+<pb n="60" facs="tcp:153850:38"/> read in the Holy tongue,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>in fut. niphal.</hi>
+               </note> 
+               <hi>The hoary head is a Crown of Glory,</hi> (of ornament, or comelineſs) <hi>in the way of righteouſneſs let it be found,</hi> or <hi>it ſhall be found;</hi> it is either to be underſtood as a promiſe, thus, <hi>in the way of righteouſneſs the Crown of Glory ſhall be found by the hoary head;</hi> or as a command, thus, <hi>that the Gray head may be a becoming ornament to the an<g ref="char:EOLhyphen"/>tient, let it be found in the way of righteouſneſs;</hi> it is neceſſary it ſhould be found in that way. What do Old men that are not good ſo long in the World? What is the advantage they get? Surely only this, <hi>They live to ſee more evil, and to do
+<pb n="61" facs="tcp:153850:38"/> more evil, and to deſerve more evil than others do,</hi> that is all the happineſs of an Old man that is not gracious; for it is not the venerable face that will commend to God, nor the ſnowy head of the Antient, that will make way for him before the Ancient of dayes, but to <hi>dye the death of the righteous.</hi> To name one more,</p>
+            <p>Eightly, compare <hi>the death of the righteous, with the death of the Martyrs;</hi> all that dye for ſuch, are not ſaved, but all that dye righteous they are ſaved; there are many perſons that may <hi>give their bodies to be burned,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 13.3.</note> and yet their ſouls ſhall burn in Hell; many per<g ref="char:EOLhyphen"/>ſons
+<pb n="62" facs="tcp:153850:39"/> that may be <hi>Martyrs</hi> in our account, who are but <hi>Malefactors</hi> in the account of God: If we dye the death of a <hi>Martyr,</hi> and not of a Godly one, it will be no profit; for it is not the death, nor the cauſe only, but the heart that makes a <hi>Martyr.</hi>
+            </p>
+            <p>Three things make a <hi>Mar<g ref="char:EOLhyphen"/>tyr;</hi> there muſt not only be ſuffering, but a good cauſe to ſuffer in, and a good conſci<g ref="char:EOLhyphen"/>ence to ſuffer with; ſome <hi>Mar<g ref="char:EOLhyphen"/>tyrs</hi> that ſeemed nothing elſe to us, may really be nothing leſs, when as no righteous perſons, but they are happy: There are ſome perſons that may ſeem to us, to <hi>dye for the
+<pb n="63" facs="tcp:153850:39"/> Lord,</hi> and yet do not <hi>dye in the Lord;</hi> but all upright men <hi>dye in the Lord,</hi> and therefore you ſee, if we make the compariſon here, the death of the righteous is much to be preferred: And thus you have the firſt thing, the reaſons why <hi>wicked men when they come to dye, deſire to dye the death, and have the laſt end of the righteous.</hi>
+            </p>
+            <p>The ſecond thing is, <hi>How it comes to paſs that though they deſire it, yet they do not obtain it.</hi> I would not ſpeak now concerning the ſins of wicked men, by which they forfeit this deſired happineſs; if a man ſhould never ſo much deſire health, and yet go immediately
+<pb n="64" facs="tcp:153850:40"/> and drink off a cup of poiſon, death would be his portion be<g ref="char:EOLhyphen"/>fore health: if a Water-man ſhould never ſo much deſire to be at <hi>Weſtminſter,</hi> and yet row towards <hi>London-bridge,</hi> his deſires would be but in vain: Thus it is with ſinfull men, they contradict their deſires in their pratices, therefore their de<g ref="char:EOLhyphen"/>ſires further them nothing in the way to happineſs, their practices carry them faſter to Hell, than their deſires can to Heaven. But if you ask me, <hi>Why do thoſe that deſire it not obtain it?</hi> My anſwer is, <hi>Be<g ref="char:EOLhyphen"/>cauſe they do but deſire it;</hi> they have nothing but faint velleities, which is too ſloath<g ref="char:EOLhyphen"/>full
+<pb n="65" facs="tcp:153850:40"/> full a way to get theſe great things by; there are many means conſcientiouſly to be uſed, that this <hi>laſt end of the upright</hi> may be enjoyed: the Lepers in the Goſpel were cu<g ref="char:EOLhyphen"/>red not ſitting ſtill, but walk<g ref="char:EOLhyphen"/>ing,<note place="margin">
+                  <hi>Luke</hi> 17<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14</note> 
+               <hi>as they went they were cleanſed:</hi> we muſt be up and doing: we muſt be at the charges and expences, not only of many an earneſt wiſh, but of many a ſalt tear, and many a bitter ſigh, and many a deep groan, and many a hard pull before we can obtain this bleſ<g ref="char:EOLhyphen"/>ſing: an happy eſtate in death, and a glorious life after it, are commodities not to be had at ſo cheap a rate, as for a wiſh:
+<pb n="66" facs="tcp:153850:41"/> we can gain but a little of the Earth, though we take a great deal of pains for it; and do we think to obtain Heaven with no pains? It was the ſaying of an antient Rabbin,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Rabb.</hi>
+               </note> 
+               <hi>If thou canſt ob<g ref="char:EOLhyphen"/>tain but a little of this World which thou pur<g ref="char:EOLhyphen"/>ſueſt ſo much, how canſt thou look for any thing of the other World which thou followeſt not at all?</hi> We muſt then be work<g ref="char:EOLhyphen"/>ing as well as wiſhing;<note place="margin">
+                  <hi>Lam.</hi> 3. 41. <hi>Oratione operatio &amp; opera<g ref="char:EOLhyphen"/>tione ful<g ref="char:EOLhyphen"/>ciatur o<g ref="char:EOLhyphen"/>ratio.</hi> Hieron.</note> there<g ref="char:EOLhyphen"/>fore 'tis ſaid, <hi>Let us lift up our hearts with our hands to God in the Heavens; our hearts,</hi> in praying and wiſhing, <hi>our hands,</hi> in acting and doing:
+<pb n="67" facs="tcp:153850:41"/> We ought to ſupport our pray<g ref="char:EOLhyphen"/>ing with our working, and our working with our pray<g ref="char:EOLhyphen"/>ing, both theſe ſhould go to<g ref="char:EOLhyphen"/>gether; we muſt be as well in the operative way, as in the optative mood.</p>
+            <p>I remember the Fable of the Country man, whoſe Cart ſtuck faſt in the mire; he falls a praying to <hi>Jupiter</hi> to help it out, but doth nothing elſe; and <hi>Jupiter</hi> bids him ſet his ſhoulder to the wheel, and then cry to <hi>Jupiter:</hi> ſo we muſt ſet our hands to the work, and then deſire to dye the death of the righteous. <hi>Solomons</hi> ad<g ref="char:EOLhyphen"/>vice is good,<note place="margin">
+                  <hi>Prov.</hi> 2.3, 4.</note> 
+               <hi>if thou ſhalt cry after knowledge, and lifteſt up
+<pb n="68" facs="tcp:153850:42"/> thy voice for underſtanding, if thou ſhall ſeek for her as for ſilver, and ſearch for her as for hid treaſure, &amp;c.</hi> not only <hi>cry and lift up the voice,</hi> but <hi>ſeek and ſearch:</hi> ſo the Apoſtle counſels,<note place="margin">
+                  <hi>Col.</hi> 3.1, 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>to ſeek the things that are above,</hi> as well as <hi>to mind the things that are above:</hi> hence the Church prayeth in the Pſalm,<note place="margin">
+                  <hi>Pſ.</hi> 67.1.</note> 
+               <hi>God be mercifull to us, and bleſs us, and cauſe his face to ſhine upon us;</hi> the Hebrew is,<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>and cauſe his face to ſhine with us;</hi> that is, his grace to accompany our endeavours: Gods grace is to be deſired, and mans endeavour not to be ſpared.</p>
+            <p>Now this may be ſummed
+<pb n="69" facs="tcp:153850:42"/> up in a few words; here are the two reaſons why <hi>they do not obtain, though they do deſire.</hi>
+            </p>
+            <p>Firſt, <hi>They neglect the active obedience of a righteous life;</hi> they neglect the performance of thoſe duties that lead to this end; Obedience though it be not the cauſe of Heaven, yet it is the cawſey to it; though it doth not merit, yet it is the means; when our wiſhes go without duty, then they are lame and out of joynt; there muſt be Faith, Repentance, Ho<g ref="char:EOLhyphen"/>lineſs, Ordinances, Obedience to the commands of God, &amp;c. 'tis by theſe we pleaſe God: Its ſaid of the <hi>Ninivites, and
+<pb n="70" facs="tcp:153850:43"/> God ſaw their works that they turned from their evil way;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Seder Maamadoth ex tract. Sabbath.</hi>
+               </note> the Prophet ſaith not, <hi>and God ſaw</hi> their Sackcloth and their Faſting, but <hi>their works, that they turn<g ref="char:EOLhyphen"/>ed from their evil way.</hi> Re<g ref="char:EOLhyphen"/>member this, <hi>He that made you without your aſſiſtance, will not ſave you without your obedi<g ref="char:EOLhyphen"/>ence;</hi> and this obedience is to be univerſal, not only to the eaſier duties, but to the more difficult: Some are eaſie, as <hi>to believe we muſt be ſaved by an imputed righteouſneſs, to truſt to another when we ſee our own imperfection,</hi> theſe we are eaſily
+<pb n="71" facs="tcp:153850:43"/> perſwaded to; but then <hi>to love our enemies, to mortifie our cor<g ref="char:EOLhyphen"/>ruptions, to pull out our right eye, and cut off our right hand,</hi> theſe are hard ſayings; men will not go to the coſt of uni<g ref="char:EOLhyphen"/>verſal active obedience, and therefore wiſh and wiſh, and do not obtain.</p>
+            <p>Secondly, they decline the paſſive obedience of a righte<g ref="char:EOLhyphen"/>ous life, and that makes them miſcarry; they would be wil<g ref="char:EOLhyphen"/>ling to be ſaved by the Croſs of Chriſt, bit they are not wil<g ref="char:EOLhyphen"/>ling to bear the Croſs of Chriſt; they would be willing to fol<g ref="char:EOLhyphen"/>low Chriſt to his Kingdom, but they would not follow him to his Croſs; they would fol<g ref="char:EOLhyphen"/>low
+<pb n="72" facs="tcp:153850:44"/> him into the <hi>Garden</hi> of pleaſure, but not to <hi>Golgotha</hi> the place of Souls; they would be willing to eat bread with Chriſt at his Table, but are loath to pledge him in his bit<g ref="char:EOLhyphen"/>ter Cup; they would be glori<g ref="char:EOLhyphen"/>fied with his Glory, but not be baptized with his Baptiſm: There's the great reaſon men do not attain Heaven, they would be willing to <hi>dye the death of the righteous,</hi> but are unwilling to <hi>dye the death for righteouſneſs ſake.</hi> Alas! (Chriſtians) the Lord Jeſus Chriſt will be your head, but it is a head under a Crown of Thorns; God will be your God, as he was to <hi>Moſes,</hi> but
+<pb n="73" facs="tcp:153850:44"/> he will appear to you in the burning Buſh; we muſt firſt enter into the ſorrow of our Lord, before we can enter into the joy of our Lord; there are firſt thoſe groans that are un<g ref="char:EOLhyphen"/>utterable, and then thoſe joyes that are unſpeakable: <hi>He that hath not learned the leſſon of the Croſs, has not learned his A. B. C. in Religion:</hi> The Scriptures teach, firſt a ſuffer<g ref="char:EOLhyphen"/>ing with Chriſt, and then a reigning with him: Now there are few perſons willing to ſuf<g ref="char:EOLhyphen"/>fer, and therefore it is that ſo few get to Heaven. Few think themſelves to be graced (as they in the <hi>Acts.</hi>)<note place="margin">
+                  <hi>Acts</hi> 5.41.</note> when they are diſgraced; few that count
+<pb n="74" facs="tcp:153850:45"/> themſelves dignified, when they are villified for Chriſt; few that are convinced, that though they loſe all for Chriſt, yet they ſhall loſe nothing by him; nay, that though they loſe all for him, yet they may find it all again, and more in him; few that are like the an<g ref="char:EOLhyphen"/>tient Chriſtians, that were glad they had any thing to loſe for Jeſus Chriſt; thus ſhould it be with us all: we muſt neither neglect the <hi>active,</hi> nor decline the <hi>paſſive</hi> obedience of a righ<g ref="char:EOLhyphen"/>teous life, if we would <hi>dye the death of the upright, and have our laſt end like his.</hi> Thus I have anſwered the two Que<g ref="char:EOLhyphen"/>ſtions; let me now conclude
+<pb n="75" facs="tcp:153850:45"/> in a few inferences from the premiſſes.</p>
+            <p>And firſt, this ſhews us <hi>the wiſdom and happineſs of thoſe that make choyce of a righteous life; 'Tis the beſt wiſdom,</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>they</hi> only take the right way to enſure a bleſſed death; they have a proſpect into fu<g ref="char:EOLhyphen"/>turity, they conſider what is coming, and therefore provide for it. And <hi>'tis their great happineſs,</hi> becauſe they make ſure of a heavenly reward after death; therefore how ſtrange<g ref="char:EOLhyphen"/>ly do we argue, when we ſee a Worldling dandled upon the knees of proſperity? we are prone to think,. ſurely this is one of the Favourites of Hea<g ref="char:EOLhyphen"/>ven,
+<pb n="76" facs="tcp:153850:46"/> the darling of provi<g ref="char:EOLhyphen"/>dence, ſurely God loveth that man, he makes him ſo great and rich; and on the other hand, when we ſee the righteous afflicted in this World, re<g ref="char:EOLhyphen"/>proached, threatned, impove<g ref="char:EOLhyphen"/>riſhed, impriſoned, baniſhed, martyred, we are apt to judge, ſurely this is not a perſon that God loves; but it muſt be the end that muſt be regarded, and then it will appear who is the happy man;<note place="margin">
+                  <hi>Pſa.</hi> 37.37.</note> 
+               <hi>mark the perfect man, and behold the upright, for the end of that man is Peace;</hi> the happineſs of life is to be eſteemed of by the end and iſſue of it: though the righteous mans way be afflicti<g ref="char:EOLhyphen"/>on,
+<pb n="77" facs="tcp:153850:46"/> yet his end is peace; that is, an abſence of all evil, and the preſence of all good: the Hebrew word for Peace, comes from a root which denotes <hi>per<g ref="char:EOLhyphen"/>fection;</hi> his end is perfecti<g ref="char:EOLhyphen"/>on of happineſs: hence the Rabbin tells us,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Rab. Shimſon Ben Chol<g ref="char:EOLhyphen"/>peta miſna okatzim ſub finem.</note> 
+               <hi>that the Holy bleſſed God finds not any veſ<g ref="char:EOLhyphen"/>ſel that will con<g ref="char:EOLhyphen"/>tain enough of bleſſing for</hi> Iſ<g ref="char:EOLhyphen"/>rael, <hi>but the veſſel of Peace,</hi> according to that of the Pſal<g ref="char:EOLhyphen"/>miſt,<note place="margin">
+                  <hi>Pſa.</hi> 29. <hi>ult.</hi>
+               </note> 
+               <hi>the Lord ſhall bleſs his people with Peace:</hi> indeed this is ALL, therefore <hi>Balaam</hi> himfelf, though a wretch and a reprobate, wiſhed himſelf no
+<pb n="78" facs="tcp:153850:47"/> more happineſs, then the righ<g ref="char:EOLhyphen"/>teous ſhould enjoy at death, and in the other life.</p>
+            <p>If an unskilfull man ſhould go to an exquiſite Limner, and ſee him draw the rude draught of a Picture, he would wonder what he intended; but if he would but ſtay till he had ſet to his <hi>ultimam manum,</hi> his laſt hand, and finiſhed the piece, he would ſee it to be excel<g ref="char:EOLhyphen"/>lent: Thus it is with fooliſh men, they look upon the rude draught of a Godly mans con<g ref="char:EOLhyphen"/>dition in this World, and miſ<g ref="char:EOLhyphen"/>judge it; but if they had but patience to ſuſpend their judgement till God had fi<g ref="char:EOLhyphen"/>niſhed it, they would find it
+<pb n="79" facs="tcp:153850:47"/> excellent; and worthy to be deſired.</p>
+            <p>If a man had been preſent with God at his firſt dayes creation, when God began to make the World, when in the <hi>tohu vabohu,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Gen.</hi> 1.2.</note> in the indigeſted <hi>Chaos,</hi> all things lay diſorderly and confuſedly jumbled toge<g ref="char:EOLhyphen"/>ther, <hi>fire and water, cold and heat, light and darkneſs, dry and moiſt,</hi> if a man had ſeen this, he would have wondered, what will the wiſe God make of this piece of confuſion; but if this man had ſtaid till the end of the ſixth day, he would have ſaid with God, <hi>Behold all is very good.</hi> Thus he that looks upon the troubled eſtate
+<pb n="80" facs="tcp:153850:48"/> of the righteous, may wonder what God intends with them; but ſtay to the end, and you will ſee their condition bleſ<g ref="char:EOLhyphen"/>ſed: wicked men look no fur<g ref="char:EOLhyphen"/>ther then juſt before them, to <hi>receive their good things in this life;</hi> but you know there are many perſons that may <hi>be coached to Hell, when others may be whipped to Heaven;</hi> nay many if they were not kept ſhort of the things of the Earth, would come ſhort of the joyes of Heaven. Doth any perſon think the Malefactor happy, becauſe he may ride in a gilded Coach to the Gal<g ref="char:EOLhyphen"/>lows? Or the Child to be un<g ref="char:EOLhyphen"/>happy, becauſe the Father
+<pb n="81" facs="tcp:153850:48"/> takes the rod and corrects him? I remember one of the Popiſh Writers compareth the righte<g ref="char:EOLhyphen"/>ous, and the wicked, to the Hens and Hawks that are kept in Great mens houſes; you know whilſt the Hen is alive, ſhe is not ſuffered to come into the houſe, but to ſcrape upon the Dunghill, and get her living there; but when the Hen is killed, ſhe is ſerved in to the Maſters table: whereas the Hawk whilſt alive is kept in the houſe with great atten<g ref="char:EOLhyphen"/>dance, but when 'tis dead, 'tis good for nothing, but thrown out upon the Dung<g ref="char:EOLhyphen"/>hill.</p>
+            <p>So here the wicked have it
+<pb n="82" facs="tcp:153850:49"/> may be a great deal of provi<g ref="char:EOLhyphen"/>ſion, but when they dye there is no more uſe of them, when as the Godly are preferred: Now I appeal to you which of theſe is the happieſt eſtate; ſurely <hi>that is the beſt that is the beſt at laſt;</hi> none would be ſo mad as to deſire firſt his happineſs, and then his miſe<g ref="char:EOLhyphen"/>ry: which would you chooſe of theſe two, either to go through a pleaſant Gallery, where are all ſorts of Pictures, variety of ſweet ſmells, and all manner of delights, to run through this into a flaming fire; or to run through a fla<g ref="char:EOLhyphen"/>ming fire, to come into a place of liberty, peace, and comfort?
+<pb n="83" facs="tcp:153850:49"/> See then the wiſdom and hap<g ref="char:EOLhyphen"/>pineſs of thoſe that make choice of a righteous life.</p>
+            <p>Secondly, we learn hence <hi>the neceſſity of looking about us, whether our endeavours are ſuitable to our wiſhes,</hi> or elſe (as you ſee) for all your wiſhes to dye the death of the righteous, you may dye the death of the reprobate.</p>
+            <p>Pray think of it, the time will certainly come, and may ſuddenly come, when nothing but the life of the righteous will yield you comfort; the Phyſicians they have left thee, the Miniſter he is to come, (but alas it is too late to ſend for him, for thou art not ca<g ref="char:EOLhyphen"/>pable
+<pb n="84" facs="tcp:153850:50"/> of receiving any in<g ref="char:EOLhyphen"/>ſtruction) thy reaſonable ſoul, thy precious ſoul, thy immor<g ref="char:EOLhyphen"/>tal ſoul ſits trembling upon the threſhold of thy lips, to take its flight into another World; go backward into this life you cannot, ſtay here you may not, go forward into ano<g ref="char:EOLhyphen"/>ther World you dare not. Now this is the time, and if have not lived the life of the righte<g ref="char:EOLhyphen"/>ous, what a dreadfull eſtate are you in then?</p>
+            <p>The ſoul of a man at death, is like a Prince beaten from one ſtrong Hold into another; the ſoul is firſt made to fly out of the lower parts of the body, the legs and thighs, and then
+<pb n="85" facs="tcp:153850:50"/> comes into the upper parts of the body; but the diſeaſe be<g ref="char:EOLhyphen"/>ſiegeth it there, and then it flyes to the heart, (its laſt re<g ref="char:EOLhyphen"/>fuge) and cannot hold out long there.</p>
+            <p>Upon this account it con<g ref="char:EOLhyphen"/>cerns us greatly, to ask every one himſelf, How have I lead my life? Where are my Graces? What have I been doing nothing but wiſhing for Heaven, and not labouring for it? O conſider how much you ſhould be awakened and alla<g ref="char:EOLhyphen"/>rum'd by this! you ought to deal honeſtly with your ſelves; it is high time to beſtir your ſelves, you are upon the bor<g ref="char:EOLhyphen"/>ders of Eternity; none of you
+<pb n="86" facs="tcp:153850:51"/> but deſire to dye the death of the righteous, O labour that your endeavours may be an<g ref="char:EOLhyphen"/>ſwerable: If there was but one of you that had been wiſhing and not endeavouring, and ſo like to be excluded out of bliſs, it might greatly ſtartle you all who this might be: When Chriſt told his Diſci<g ref="char:EOLhyphen"/>ples, one of them ſhould be<g ref="char:EOLhyphen"/>tray him, they come and ſay every one, <hi>Lord is it I?</hi> and when we tell you there are a great many in the World, that do not endeavour, but only wiſh to be ſaved, and for this are in danger to be damned, methinks you ſhould every one ſay, <hi>Lord is it not I?</hi> If
+<pb n="87" facs="tcp:153850:51"/> there was but one man in the whole World that was to be damned, it might awaken us all, leſt any of us ſhould be that one man: As if an Army was drawn into a Field, and a voice ſhould come from Heaven, that a Dart ſhould ſtrike one man of that Company dead, and not tell the man, would not every one have cauſe to be afraid? So have we cauſe to entertain an holy fear and jealouſie, leſt we ſhould be of the number of ſuch as ſhall fall ſhort of the Glory of God.</p>
+            <p>Thirdly, we learn hence the <hi>duty of adding working to our wiſhing, in order to our arri<g ref="char:EOLhyphen"/>val at the death of the righte<g ref="char:EOLhyphen"/>ous;</hi>
+               <pb n="88" facs="tcp:153850:52"/> and this we are to endea<g ref="char:EOLhyphen"/>vour both <hi>ſeriouſly,</hi> and <hi>ſea<g ref="char:EOLhyphen"/>ſonably:</hi>
+               <note place="margin">2 <hi>Pet.</hi> 1.10.</note> 1. <hi>ſeriouſly; Give di<g ref="char:EOLhyphen"/>ligence to make your calling and election ſure;</hi>
+               <note place="margin">1 <hi>Cor.</hi> 15. <hi>ult. Eccleſ.</hi> 9.10.</note> 
+               <hi>Abound in the work of the Lord; What<g ref="char:EOLhyphen"/>ever thy hand findeth to do, do it with thy might:</hi> Be in good earneſt for thy precious and immortal ſoul.</p>
+            <p>And then 2ly. do it <hi>ſea<g ref="char:EOLhyphen"/>ſonably;</hi> becauſe thou art ſo uncertain of the continuance of a natural life, therefore be ſpeedy in reſpect of a ſpiri<g ref="char:EOLhyphen"/>tual life.<note place="margin">
+                  <hi>Pſa.</hi> 119.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> We ſhould <hi>make haſt and not delay to keep Gods Commandments:</hi> there may be caſes wherein its not only law<g ref="char:EOLhyphen"/>full, but laudable for him that
+<pb n="89" facs="tcp:153850:52"/> believeth to make haſt; ſuch a caſe is this of our ſouls, in which expedition is highly commendable: 'Tis obſerved of <hi>Solomon,</hi> that he was but <hi>ſeven years</hi> in building the Houſe of God,<note place="margin">1 <hi>Kings</hi> 6. <hi>ult.</hi> — 7.1.</note> and <hi>thirteen in building his own:</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Miclal Yophi in loc.</hi>
+               </note> R. <hi>Shelomoh Yar<g ref="char:EOLhyphen"/>chi</hi> writes of it, that the Scripture ſpeaks it to his praiſe, that he was ſo quick in Gods, and ſo ſlow in his own work. It is much with us in reſpect of our lives, as with men that are ſail<g ref="char:EOLhyphen"/>ing in a Ship before the wind, whether they ſit or lye, work or be idle, walk or ſtand ſtill, whatſoever they do, yet the
+<pb n="90" facs="tcp:153850:53"/> Ship is going forward towards the Port it is bound for: So it is here, whether we repent or do not repent, pray or neglect to pray, believe or do not be<g ref="char:EOLhyphen"/>lieve, be holy or remain un<g ref="char:EOLhyphen"/>holy, our lives wear away apace: Therefore we had need look about us, and to quicken our pace in the path of God<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p>Men complain of the ſhort<g ref="char:EOLhyphen"/>neſs of their lives,<note place="margin">Non ſu<g ref="char:EOLhyphen"/>mus vitae inopes ſed prodigi.</note> and yet live as if their lives were too long; O methinks there is enough in the death and laſt end of the righteous, to perſwade you to the way of the upright! Be therefore adding working to your wiſhing; remember that
+<pb n="91" facs="tcp:153850:53"/> of <hi>Paul,</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 6.7, 8.</note> 
+               <hi>Be not deceived, God is not mocked; according as a man ſoweth, ſo ſhall he alſo reap: He that ſowes to the fleſh, ſhall of the fleſh reap corrupti<g ref="char:EOLhyphen"/>on; but he that ſoweth to the ſpirit, ſhall of the ſpirit reap life everlaſting.</hi> The meaning of the Apoſtle is plainly this, that there is a conſonancy betwixt a mans life and death; ſuch as his ſowing is, ſuch ſhall his reaping be.</p>
+            <p>Laſtly, to conclude the whole, this may be the com<g ref="char:EOLhyphen"/>fort of ſuch as <hi>do live the life, as well as deſire to dye the death of the upright;</hi> that chooſe the former part, as well as the lat<g ref="char:EOLhyphen"/>ter end of the righteous; for
+<pb n="92" facs="tcp:153850:54"/> as the wicked go from a tempo<g ref="char:EOLhyphen"/>ral life to an eternal death,<note place="margin">Vita ad mortem ſic impi<g ref="char:EOLhyphen"/>us vivit, mors ad vitam ſic pius mo<g ref="char:EOLhyphen"/>ritur.</note> ſo the righteous go from a tem<g ref="char:EOLhyphen"/>poral death to an eternal life; their death is both precious to God, and advantageous to temſelves: The righteous may welcome death, for death to a righteous man, though it parts two near friends, Soul and Body, yet it unites two better friends, the Soul and its Saviour to all Eternity.</p>
+            <p>The Scripture records con<g ref="char:EOLhyphen"/>cerning <hi>Moſes,</hi> in the laſt Chap<g ref="char:EOLhyphen"/>ter of <hi>Deuteronomy,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 34.5.</note> that <hi>Moſes the ſervant of the Lord dyed according to the word of the Lord;</hi> the words in the Hebrew are,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Moſes</hi> dyed <hi>upon the mouth
+<pb n="93" facs="tcp:153850:54"/> of the Lord:</hi> The meaning is, ſay the Jews,<note place="margin">
+                  <hi>l'Empe<g ref="char:EOLhyphen"/>reur pa<g ref="char:EOLhyphen"/>raph. Jach. in Dan. p.</hi> 258.</note> 
+               <hi>Moſes dyed kiſſing of God;</hi> ſurely ſo it is with the Saints of God, their Father gives them a kiſs, and ſo layes them down in the bed of the Grave; therefore they that have lived righteouſly, may at death ſmile themſelves into a corpſe; for the body of a Godly man goes to his Lords bed, and his ſoul to his Lords boſom; the Grave is perfumed for his bo<g ref="char:EOLhyphen"/>dy, and Heaven prepared for his ſoul. I may ſay of righ<g ref="char:EOLhyphen"/>teouſneſs as <hi>Solomon,</hi> (in a caſe not much differing)<note place="margin">
+                  <hi>Prov.</hi> 6.22.</note> 
+               <hi>when thou goeſt it ſhall lead thee, when thou ſleepeſt it ſhall keep thee, and when thou awakest it ſhall
+<pb n="94" facs="tcp:153850:55"/> talk with thee;</hi> that is, (ac<g ref="char:EOLhyphen"/>cording to the Gloſs of the Rabbinical In<g ref="char:EOLhyphen"/>terpreters)<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>when thou goeſt it ſhall lead thee,</hi> viz. in thy paſ<g ref="char:EOLhyphen"/>ſage through this World; <hi>when thou ſleepeſt it ſhall keep thee,</hi> viz. when thou lyeſt down in the Grave; and <hi>when thou a<g ref="char:EOLhyphen"/>wakeſt it ſhall talk with thee,</hi> viz. when thou art awakened at the glorious Reſurrection.</p>
+            <p>Well then, (all ye that are upright in heart and life) I bring you glad tydings of great joy;<note place="margin">
+                  <hi>Pſal.</hi> 58.11. <hi>Eccleſ.</hi> 8.12.</note> 
+               <hi>Verily there is a re<g ref="char:EOLhyphen"/>ward for the righteous,</hi> and <hi>it ſhall be well with them that fear
+<pb n="95" facs="tcp:153850:55"/> God, that fear before him:</hi> it ſhall be ſo well, that none of you ſhall deſire to have it bet<g ref="char:EOLhyphen"/>ter; while the languid wiſhes of the wicked betray them to the pit of Perdition, your holy and earneſt endeavours ſhall deliver you into the Manſion of Glory;<note place="margin">1 <hi>Cor.</hi> 15 <hi>ult.</hi>
+               </note> your <hi>labour ſhall not be in vain in the Lord: God is too good to ſuffer him<g ref="char:EOLhyphen"/>ſelf to be overcome in love;</hi>
+               <note place="margin">Dieu eſt trop bon pour ſe laiſſer ſurmon<g ref="char:EOLhyphen"/>ter en a<g ref="char:EOLhyphen"/>mour.</note> it ſhall never be ſaid, there is more love in man to righteouſ<g ref="char:EOLhyphen"/>neſs, than there is love in God to the righteous. Therefore comfort your ſelves with theſe words, for you ſhall in this World certainly obtain a com<g ref="char:EOLhyphen"/>fortable diſſolution, and in the
+<pb n="96" facs="tcp:153850:56"/> other World a joyfull Reſur<g ref="char:EOLhyphen"/>rection; You ſhall <hi>dye the death of the righteous, and like unto his ſhall be your laſt</hi>
+            </p>
+            <trailer>END.</trailer>
+            <pb facs="tcp:153850:56"/>
+            <pb n="96" facs="tcp:153850:57"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153850:57"/>
+         </div>
+      </body>
+   </text>
+</TEI>
